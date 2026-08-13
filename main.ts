@@ -1,1 +1,1 @@
-const k: string = "p"
+const k: string = "hello"
