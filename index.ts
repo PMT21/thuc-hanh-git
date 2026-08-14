@@ -1,0 +1,1 @@
+const j: string = "xin chào"
